@@ -4,7 +4,7 @@
   <artifactId>demo-root</artifactId>
   <version>1.0</version>
   <packaging>pom</packaging>
-  
+  <!-- 版本管理工具：git -->
   <!-- name:描述项目的名称，可选 -->
   <name>demo-root</name>
   <!-- url:项目网站，可选 -->
